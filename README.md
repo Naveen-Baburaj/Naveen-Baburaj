@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Baburaj</h1>
-<h3 align="center">am a passionate AI enthusiast with a strong foundation in artificial intelligence, machine learning, and data science. My journey in the AI field has been fueled by a relentless curiosity and a commitment to leveraging technology to solve complex problems and drive innovation.</h3>
+<h3 align="center">A passionate AI enthusiast with a strong foundation in artificial intelligence, machine learning, and data science. My journey in the AI field has been fueled by a relentless curiosity and a commitment to leveraging technology to solve complex problems and drive innovation.</h3>
 
 - 🌱 I’m currently learning **Full stack development. This endeavor is driven by my goal to integrate AI and web development, creating sophisticated, user-friendly web applications that harness the power of artificial intelligence.**
 
