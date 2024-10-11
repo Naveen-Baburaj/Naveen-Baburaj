@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **naveenbaburaj741@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xstEt3wO7x4Z6U3hryPXqzc_khttps://docs.google.com/document/d/1xstEt3wO7x4Z6U3hryPXqzc_kRgt07bKsNMpK2T0XCw/edit?usp=drive_linkRgt07bKsNMpK2T0XCw/edit?usp=drive_link](https://docs.google.com/document/d/1xstEt3wO7x4Z6U3hryPXqzc_khttps://docs.google.com/document/d/1xstEt3wO7x4Z6U3hryPXqzc_kRgt07bKsNMpK2T0XCw/edit?usp=drive_linkRgt07bKsNMpK2T0XCw/edit?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
