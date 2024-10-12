@@ -27,5 +27,40 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+### Languages and Tools:
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" height="40" width="40"/>
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" width="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" width="40"/>
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" width="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
+</a>
+<a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="Microsoft Office" height="40" width="40"/>
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="40" width="40"/>
+</a>
+<a href="https://bubble.io/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Bubble_Logo.png" alt="Bubble.io" height="40" width="40"/>
+</a>
+<a href="https://www.google.com/appsheet/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/AppSheet.png" alt="AppSheet" height="40" width="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="40" width="40"/>
+</a>
+
