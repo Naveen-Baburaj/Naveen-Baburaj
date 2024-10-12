@@ -31,7 +31,7 @@
 ### Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" width="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" width="40"/>
@@ -46,7 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Microsoft_Office_logo_%282013-2019%29.svg" alt="Microsoft Office" height="40" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" alt="Microsoft Office" height="40" width="40"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/>
@@ -58,8 +58,8 @@
   <img src="https://d19j0qt0x55bap.cloudfront.net/production/startups/logos/000/038/583/original/bubble.png" alt="Bubble.io" height="40" width="40"/>
 </a>
 <a href="https://www.google.com/appsheet/" target="_blank">
-  <img src="https://pbs.twimg.com/profile_images/1308752477719621632/GpYz-xKB_400x400.png" alt="AppSheet" height="40" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/AppSheet.png" alt="AppSheet" height="40" width="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" height="40" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" width="40"/>
 </a>
