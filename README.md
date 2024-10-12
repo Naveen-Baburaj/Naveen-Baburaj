@@ -46,7 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" alt="Microsoft Office" height="40" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Microsoft_logo_%282012%29.svg" alt="Microsoft Office" height="40" width="40"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/>
@@ -55,10 +55,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="40" width="40"/>
 </a>
 <a href="https://bubble.io/" target="_blank">
-  <img src="https://d19j0qt0x55bap.cloudfront.net/production/startups/logos/000/038/583/original/bubble.png" alt="Bubble.io" height="40" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bubble-io-is-an-american-no-code-development-platform-logo-color-tal-revivo.png" alt="Bubble.io" height="40" width="40"/>
 </a>
 <a href="https://www.google.com/appsheet/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/AppSheet.png" alt="AppSheet" height="40" width="40"/>
+  <img src="https://img.icons8.com/color/96/000000/google-apps.png" alt="AppSheet" height="40" width="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" width="40"/>
