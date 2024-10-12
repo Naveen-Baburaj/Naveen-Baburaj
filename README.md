@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Machine Learning Algorithms: From linear regression to complex neural networks, let's discuss how to choose and implement the right algorithms for your data. Data Preprocessing: Techniques for cleaning, transforming, and preparing datasets for analysis, including handling missing values and feature engineering.Python for Data Science: Best practices and libraries (such as Pandas, NumPy, Scikit-Learn) to efficiently analyze and manipulate data. Data Visualization: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Plotly to communicate data findings effectively. Model Evaluation and Validation: Methods to assess model performance, such as cross-validation, confusion matrices, and ROC curves. Natural Language Processing (NLP): Techniques for processing and analyzing textual data, including sentiment analysis and text classification. AI and Web Development Integration: Combining full stack development with AI to create intelligent web applications.**
 
-- 📫 How to reach me **naveenbaburaj741@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
 ### Connect with me:
 
@@ -32,6 +30,9 @@
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" width="40"/>
+</a>
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" width="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" width="40"/>
