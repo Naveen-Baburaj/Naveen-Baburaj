@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naveenbaburaj741.wixsite.com/naveen-baburaj](https://naveenbaburaj741.wixsite.com/naveen-baburaj)
 
-- <h2>💬 Ask Me About:</h2>
+ <h2>💬 Ask Me About:</h2>
 <ul>
   <li><strong>Machine Learning Algorithms</strong>: From linear regression to complex neural networks, let's discuss how to choose and implement the right algorithms for your data.</li>
   <li><strong>Data Preprocessing</strong>: Techniques for cleaning, transforming, and preparing datasets for analysis, including handling missing values and feature engineering.</li>
