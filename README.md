@@ -55,7 +55,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="40" width="40"/>
 </a>
 <a href="https://bubble.io/" target="_blank">
- <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/download.webp" alt="Logo" width="40"/>
+ <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/bubble.webp" alt="Logo" width="40"/>
 </a>
 <a href="https://www.google.com/appsheet/" target="_blank">
   <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/appsheet.webp" alt="AppSheet" height="40" width="40"/>
