@@ -46,7 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
 </a>
 <a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Microsoft_logo_%282012%29.svg" alt="Microsoft Office" height="40" width="40"/>
+  <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/office.webp" alt="Microsoft Office" height="40" width="40"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/>
