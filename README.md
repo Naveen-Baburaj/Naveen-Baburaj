@@ -11,10 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-### Connect with me on LinkedIn:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/connectnav/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
+</a>
+<a href="https://wa.me/447810269759" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
+</a>
+<a href="mailto:naveenbaburaj741@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
 </a>
 
 
