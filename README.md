@@ -5,7 +5,17 @@
 
 - 👨‍💻 All of my projects are available at [https://naveenbaburaj741.wixsite.com/naveen-baburaj](https://naveenbaburaj741.wixsite.com/naveen-baburaj)
 
-- 💬 Ask me about **Machine Learning Algorithms: From linear regression to complex neural networks, let's discuss how to choose and implement the right algorithms for your data. Data Preprocessing: Techniques for cleaning, transforming, and preparing datasets for analysis, including handling missing values and feature engineering.Python for Data Science: Best practices and libraries (such as Pandas, NumPy, Scikit-Learn) to efficiently analyze and manipulate data. Data Visualization: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Plotly to communicate data findings effectively. Model Evaluation and Validation: Methods to assess model performance, such as cross-validation, confusion matrices, and ROC curves. Natural Language Processing (NLP): Techniques for processing and analyzing textual data, including sentiment analysis and text classification. AI and Web Development Integration: Combining full stack development with AI to create intelligent web applications.**
+- <h2>💬 Ask Me About:</h2>
+<ul>
+  <li><strong>Machine Learning Algorithms</strong>: From linear regression to complex neural networks, let's discuss how to choose and implement the right algorithms for your data.</li>
+  <li><strong>Data Preprocessing</strong>: Techniques for cleaning, transforming, and preparing datasets for analysis, including handling missing values and feature engineering.</li>
+  <li><strong>Python for Data Science</strong>: Best practices and libraries (such as Pandas, NumPy, Scikit-Learn) to efficiently analyze and manipulate data.</li>
+  <li><strong>Data Visualization</strong>: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Plotly to communicate data findings effectively.</li>
+  <li><strong>Model Evaluation and Validation</strong>: Methods to assess model performance, such as cross-validation, confusion matrices, and ROC curves.</li>
+  <li><strong>Natural Language Processing (NLP)</strong>: Techniques for processing and analyzing textual data, including sentiment analysis and text classification.</li>
+  <li><strong>AI and Web Development Integration</strong>: Combining full stack development with AI to create intelligent web applications.</li>
+</ul>
+
 
 
 
