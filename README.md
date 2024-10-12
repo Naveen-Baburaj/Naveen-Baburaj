@@ -10,11 +10,13 @@
 - 📫 How to reach me **naveenbaburaj741@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 ### Connect with me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/connectnav/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
 </a>
+
 
 <p align="left">
 </p>
