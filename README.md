@@ -55,7 +55,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="40" width="40"/>
 </a>
 <a href="https://bubble.io/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-bubble-io-is-an-american-no-code-development-platform-logo-color-tal-revivo.png" alt="Bubble.io" height="40" width="40"/>
+ <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/download.webp" alt="Logo" width="40"/>
 </a>
 <a href="https://www.google.com/appsheet/" target="_blank">
   <img src="https://img.icons8.com/color/96/000000/google-apps.png" alt="AppSheet" height="40" width="40"/>
