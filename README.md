@@ -21,6 +21,19 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
   <li><strong>AI and Web Development Integration</strong>: Combining full stack development with AI to create intelligent web applications.</li>
 </ul>
 
+## ⚙️Projects 
+
+- **[US Electric Vehicle Data Analysis using Tableau](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
+  A project that utilizes Tableau for analyzing and visualizing electric vehicle data in the USA, offering insights into trends and patterns in the EV market.
+
+- **[SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction)**  
+  A machine learning project focused on predicting the landing outcome of SpaceX's Falcon 9 first stage, with the goal of evaluating cost-effectiveness for space missions.
+
+- **[AI-Enhanced Websites with LLM APIs](https://github.com/Naveen-Baburaj/AI-Enhanced-Websites-with-LLM-APIs)**  
+  Demonstrates how LLM APIs can be integrated into a website to enhance interactivity and functionality with features like chatbots and sentiment analysis.
+
+- **[Sentiment Analysis on Clothing Store Reviews](https://github.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews)**  
+  An NLP-based project that performs sentiment analysis on customer reviews for a clothing store, helping to identify customer satisfaction and areas of improvement.
 
 
 
