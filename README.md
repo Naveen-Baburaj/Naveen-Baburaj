@@ -21,7 +21,7 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
   <li><strong>AI and Web Development Integration</strong>: Combining full stack development with AI to create intelligent web applications.</li>
 </ul>
 
-## ⚙️Projects 
+## ⚙️ Projects 
 
 - **[US Electric Vehicle Data Analysis using Tableau](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
   A project that utilizes Tableau for analyzing and visualizing electric vehicle data in the USA, offering insights into trends and patterns in the EV market.
