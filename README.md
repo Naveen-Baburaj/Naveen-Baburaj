@@ -77,6 +77,12 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://www.google.com/appsheet/" target="_blank">
   <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/appsheet.webp" alt="AppSheet" height="40" width="40"/>
 </a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/0e/Tableau_Logo.png" alt="Tableau" height="40" width="40"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" alt="NLTK" height="40" width="40"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" width="40"/>
 </a>
