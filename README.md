@@ -79,9 +79,9 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://www.tableau.com/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png?f=webp&w=256" alt="Tableau" height="40" width="40"/>
 </a>
-<a href="https://www.nltk.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" alt="NLTK" height="40" width="40"/>
-</a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" width="40"/>
+</a>
+<a href="https://www.nltk.org/" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" height="40" width="40"/>
 </a>
