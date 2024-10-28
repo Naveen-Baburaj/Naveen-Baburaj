@@ -62,6 +62,9 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" width="40"/>
 </a>
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming" height="40" width="40"/>
+</a>
 <a href="https://pandas.pydata.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" width="40"/>
 </a>
