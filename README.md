@@ -23,9 +23,6 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 
 ## ⚙️ Projects 
 
-- **[US Electric Vehicle Data Analysis using Tableau](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
-  A project that utilizes Tableau for analyzing and visualizing electric vehicle data in the USA, offering insights into trends and patterns in the EV market.
-
 - **[SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction)**  
   A machine learning project focused on predicting the landing outcome of SpaceX's Falcon 9 first stage, with the goal of evaluating cost-effectiveness for space missions.
 
@@ -35,8 +32,13 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 - **[Sentiment Analysis on Clothing Store Reviews](https://github.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews)**  
   An NLP-based project that performs sentiment analysis on customer reviews for a clothing store, helping to identify customer satisfaction and areas of improvement.
 
+- **[AI-Powered Image Captioning GUI](https://github.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI)**
+  An interactive application that generates descriptive captions for images using Hugging Face’s BLIP model.
 
+- **[US Electric Vehicle Data Analysis using Tableau](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
+  A project that utilizes Tableau for analyzing and visualizing electric vehicle data in the USA, offering insights into trends and patterns in the EV market.
 
+ 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/connectnav/" target="_blank">
