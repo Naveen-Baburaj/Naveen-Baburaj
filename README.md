@@ -96,7 +96,7 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://www.cleanpng.com/png-flask-python-web-framework-representational-state-6384161/" alt="Flask" height="40" width="40"/>
+  <img src="https://www.jumpingrivers.com/blog/r-shiny-python-flask/featured.jpg" alt="Flask" height="40" width="40"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank">
