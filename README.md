@@ -94,6 +94,11 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://www.google.com/appsheet/" target="_blank">
   <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/appsheet.webp" alt="AppSheet" height="40" width="40"/>
 </a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask" height="40" width="40"/>
+</a>
+
 <a href="https://www.tableau.com/" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png?f=webp&w=256" alt="Tableau" height="40" width="40"/>
 </a>
@@ -103,3 +108,9 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://www.nltk.org/" target="_blank">
   <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" height="40" width="40"/>
 </a>
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" width="40"/>
+</a>
+
+
