@@ -76,6 +76,9 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" width="40"/>
 </a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40" width="40"/>
+</a>
 <a href="https://scikit-learn.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
 </a>
