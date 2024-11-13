@@ -24,7 +24,10 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 ## ⚙️ Projects 
 
 - **[SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction)**  
-  A machine learning project focused on predicting the landing outcome of SpaceX's Falcon 9 first stage, with the goal of evaluating cost-effectiveness for space missions.
+  A machine learning project focused on predicting the landing outcome of SpaceX's Falcon 9 first stage, with the goal of evaluating cost-effectiveness for space missions.  
+
+- **[Diabetes Prediction Using Artificial Neural Networks](https://github.com/Naveen-Baburaj/Diabetes-Prediction-Using-Artificial-Neural-Networks)**  
+  A deep learning project utilizing artificial neural networks to predict diabetes based on health metrics from the Pima Indians Diabetes Database. 
 
 - **[AI-Enhanced Websites with LLM APIs](https://github.com/Naveen-Baburaj/AI-Enhanced-Websites-with-LLM-APIs)**  
   Demonstrates how LLM APIs can be integrated into a website to enhance interactivity and functionality with features like chatbots and sentiment analysis.
