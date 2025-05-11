@@ -6,8 +6,7 @@ A passionate AI enthusiast with a strong foundation in artificial intelligence, 
 </strong>
 </p>
 
-
-- 🌱 I’m currently learning **Full stack development. This endeavor is driven by my goal to integrate AI and web development, creating sophisticated, user-friendly web applications that harness the power of artificial intelligence.**
+-I'm currently working as a **Data Analyst at ABJAK**, where I explore and analyze data to uncover insights and support data-driven decisions. Alongside my core role, I'm also engaged in **AI engineering** and **web development**, combining analytical skills with technology to build intelligent solutions.
 
 
  <h2>💬 Ask Me About:</h2>
