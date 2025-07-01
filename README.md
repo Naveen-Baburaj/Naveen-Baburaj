@@ -1,121 +1,106 @@
 <h1 align="center">Hi 👋, I'm Naveen Baburaj</h1>
+<p align="center">
+💡 Data Analyst | Full Stack Developer | AI Engineer | Automation Architect
+</p>
+
+---
 
 <p align="justify">
-<strong>
-A passionate AI enthusiast with a strong foundation in artificial intelligence, machine learning, and data science. My journey in the AI field has been fueled by a relentless curiosity and a commitment to leveraging technology to solve complex problems and drive innovation. I have a deep understanding of the importance of data in decision-making and how advanced AI techniques can unlock insights from vast datasets. My goal is to use my expertise to create impactful AI-driven solutions that enhance efficiency and foster growth in a variety of industries.
-</strong>
+I’m a dynamic, multi-skilled technologist with 2+ years of experience crafting intelligent solutions at the intersection of <strong>data science</strong>, <strong>AI</strong>, and <strong>full stack development</strong>. From building production-ready web apps to deploying AI agents and automations, I bring ideas to life using modern tools and deep analytical insight.
 </p>
 
--I'm currently working as a **Data Analyst at ABJAK**, where I explore and analyze data to uncover insights and support data-driven decisions. Alongside my core role, I'm also engaged in **AI engineering** and **web development**, combining analytical skills with technology to build intelligent solutions.
+I currently work as a **Full Stack Developer & Data Analyst at ABJAK (UK)** where I architect end-to-end systems that span from **Bubble.io interfaces to Flask APIs**, infused with **AI intelligence and automation**.
 
+---
 
- <h2>💬 Ask Me About:</h2>
-<ul>
-  <li><strong>Machine Learning Algorithms</strong>: From linear regression to complex neural networks, let's discuss how to choose and implement the right algorithms for your data.</li>
-  <li><strong>Data Preprocessing</strong>: Techniques for cleaning, transforming, and preparing datasets for analysis, including handling missing values and feature engineering.</li>
-  <li><strong>Python for Data Science</strong>: Best practices and libraries (such as Pandas, NumPy, Scikit-Learn) to efficiently analyze and manipulate data.</li>
-  <li><strong>Data Visualization</strong>: Creating insightful visualizations using tools like Matplotlib, Seaborn, and Plotly to communicate data findings effectively.</li>
-  <li><strong>Model Evaluation and Validation</strong>: Methods to assess model performance, such as cross-validation, confusion matrices, and ROC curves.</li>
-  <li><strong>Natural Language Processing (NLP)</strong>: Techniques for processing and analyzing textual data, including sentiment analysis and text classification.</li>
-  <li><strong>AI and Web Development Integration</strong>: Combining full stack development with AI to create intelligent web applications.</li>
-</ul>
+## 💬 Ask Me About
 
-## ⚙️ Projects 
+### 🤖 Artificial Intelligence & Machine Learning
+- End-to-end ML pipelines: EDA → Modeling → Evaluation → Deployment
+- NLP tasks like classification, sentiment analysis, transformers (BERT, GPT)
+- Deploying AI-powered chatbots with Relevance AI + Voiceflow
+- Generative AI prompt engineering and model testing
 
-- **[SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction)**  
-  A machine learning project focused on predicting the landing outcome of SpaceX's Falcon 9 first stage, with the goal of evaluating cost-effectiveness for space missions.  
+### 🌐 Full Stack Web Development
+- Frontend: React, Tailwind, HTML/CSS
+- Backend: Flask, FastAPI, Node.js, AWS Lambda
+- Databases: PostgreSQL, MySQL, Firebase
+- API integrations & cloud deployments
 
-- **[Diabetes Prediction Using Artificial Neural Networks](https://github.com/Naveen-Baburaj/Diabetes-Prediction-Using-Artificial-Neural-Networks)**  
-  A deep learning project utilizing artificial neural networks to predict diabetes based on health metrics from the Pima Indians Diabetes Database. 
+### 🧠 AI Agents & Automation
+- Designing AI agents using Relevance AI and LangChain
+- Voice & chat agents with Dialogflow, Voiceflow
+- Building custom workflow automations in n8n
 
-- **[AI-Enhanced Websites with LLM APIs](https://github.com/Naveen-Baburaj/AI-Enhanced-Websites-with-LLM-APIs)**  
-  Demonstrates how LLM APIs can be integrated into a website to enhance interactivity and functionality with features like chatbots and sentiment analysis.
+### 💻 No-Code & Design Tools
+- Building MVPs using Bubble.io and AppSheet
+- Prototyping user experiences in Figma
+- Creating low-code dashboards in Power BI and Tableau
 
-- **[Sentiment Analysis on Clothing Store Reviews](https://github.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews)**  
-  An NLP-based project that performs sentiment analysis on customer reviews for a clothing store, helping to identify customer satisfaction and areas of improvement.
+### 📐 Math for ML & AI
+- Linear algebra, calculus, probability
+- Optimization methods and statistical modeling
 
-- **[AI-Powered Image Captioning GUI](https://github.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI)**  
-  An interactive GUI application that generates descriptive captions for images using Hugging Face’s BLIP model.
+---
 
-- **[US Electric Vehicle Data Analysis using Tableau](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
-  A project that utilizes Tableau for analyzing and visualizing electric vehicle data in the USA, offering insights into trends and patterns in the EV market.
+## 🧩 Recent Projects
 
- 
-### Connect with me:
+- 🛰️ **[Falcon 9 Landing Predictor](https://github.com/Naveen-Baburaj/SpaceX-Falcon-9-first-stage-Landing-Prediction)**  
+  Logistic regression and SVM models to predict landing outcomes.
 
-<a href="https://www.linkedin.com/in/connectnav/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="https://wa.me/447810269759" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" width="40" />
-</a>
-<a href="mailto:naveenbaburaj741@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
-</a>
+- 🤖 **[Diabetes Prediction Using ANN](https://github.com/Naveen-Baburaj/Diabetes-Prediction-Using-Artificial-Neural-Networks)**  
+  Artificial Neural Network built with TensorFlow & Keras.
 
+- 🖼️ **[Image Captioning GUI](https://github.com/Naveen-Baburaj/AI-Powered-Image-Captioning-GUI)**  
+  Generative captioning app using Hugging Face BLIP.
 
-<p align="left">
-</p>
+- 💬 **[Sentiment Analysis of Product Reviews](https://github.com/Naveen-Baburaj/Sentiment-Analysis-on-Clothing-Store-Reviews)**  
+  NLP pipeline from text cleaning to visualization.
 
+- 📊 **[EV Market Dashboard (Tableau)](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
+  Interactive visual analytics dashboard for EV adoption trends.
 
-### Languages and Tools:
+---
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" width="40"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" width="40"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming" height="40" width="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40" width="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="40" width="40"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="40" width="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40" width="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40" width="40"/>
-</a>
-<a href="https://www.microsoft.com/en/microsoft-365" target="_blank">
-  <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/office.webp" alt="Microsoft Office" height="40" width="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" width="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="40" width="40"/>
-</a>
-<a href="https://bubble.io/" target="_blank">
- <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/bubble.webp" alt="Logo" width="40"/>
-</a>
-<a href="https://www.google.com/appsheet/" target="_blank">
-  <img src="https://github.com/Naveen-Baburaj/Naveen-Baburaj/blob/main/Support%20Files/appsheet.webp" alt="AppSheet" height="40" width="40"/>
-</a>
+## 🎓 Education
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://www.jumpingrivers.com/blog/r-shiny-python-flask/featured.jpg" alt="Flask" height="40" width="40"/>
-</a>
+**MSc Data Science and AI (Distinction)** – University of Liverpool  
+- Built a real-time sentiment chatbot using Gemini API  
+- Created UX for a movie recommender with Twitter sentiment dashboard
 
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png?f=webp&w=256" alt="Tableau" height="40" width="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="40" width="40"/>
-</a>
-<a href="https://www.nltk.org/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" height="40" width="40"/>
-</a>
+**BEng Electrical & Electronics Engineering (2:1)** – TKM College of Engineering  
+- Developed UAV control algorithms and real-time optimization models
 
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" width="40"/>
-</a>
+---
 
+## 🏆 Notable Highlights
 
+- 📈 Helped secure **£320K in investment** by building analytical pitch tools at ABJAK
+- 🧠 Built internal tools to cut manual reporting time by 60%
+- 🧾 Designed an ultra-fast POS within the company website (Bubble + Flask)
+- 🧩 Developed a custom AI chatbot using **Relevance AI** + **Voiceflow**, saving £30K annually
+- 🏅 Employee of the Month (3×) for efficiency and innovation
+
+---
+
+## 💬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/connectnav/)
+- 📧 Email: naveenbaburaj741@gmail.com
+- 💼 [GitHub](https://github.com/Naveen-Baburaj)
+- 📱 [WhatsApp](https://wa.me/447810269759)
+
+---
+
+## 🧰 Tech Stack
+
+```bash
+Languages:     Python, JavaScript, SQL, C++, R
+Frontend:      HTML, CSS, React, Tailwind, Bubble.io
+Backend:       Flask, FastAPI, Node.js, AWS Lambda
+Automation:    n8n, Dialogflow, Voiceflow, Relevance AI
+Design:        Figma, Canva, Bootstrap
+ML Tools:      Pandas, Scikit-learn, TensorFlow, Hugging Face, OpenCV
+Database:      PostgreSQL, MySQL, Firebase
+Cloud/Deploy:  AWS, Google Cloud, Netlify, Vercel, Heroku, Docker
+Analytics:     Power BI, Tableau, Excel
