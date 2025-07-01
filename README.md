@@ -86,7 +86,7 @@ I currently work as a **Full Stack Developer & Data Analyst at ABJAK (UK)** wher
 ## 💬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/connectnav/)
-- 📧 Email: naveenbaburaj741@gmail.com
+- 📧 Email: connect.navb@gmail.com
 - 💼 [GitHub](https://github.com/Naveen-Baburaj)
 - 📱 [WhatsApp](https://wa.me/447810269759)
 
