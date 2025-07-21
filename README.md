@@ -60,29 +60,6 @@ I currently work as a **Full Stack Developer & Data Analyst at ABJAK (UK)** wher
 - 📊 **[EV Market Dashboard (Tableau)](https://github.com/Naveen-Baburaj/US-Electric-Vehicle-Data-Analysis-using-Tableau)**  
   Interactive visual analytics dashboard for EV adoption trends.
 
----
-
-## 🎓 Education
-
-**MSc Data Science and AI (Distinction)** – University of Liverpool  
-- Built a real-time sentiment chatbot using Gemini API  
-- Created UX for a movie recommender with Twitter sentiment dashboard
-
-**BEng Electrical & Electronics Engineering (2:1)** – TKM College of Engineering  
-- Developed UAV control algorithms and real-time optimization models
-
----
-
-## 🏆 Notable Highlights
-
-- 📈 Helped secure **£320K in investment** by building analytical pitch tools at ABJAK
-- 🧠 Built internal tools to cut manual reporting time by 60%
-- 🧾 Designed an ultra-fast POS within the company website (Bubble + Flask)
-- 🧩 Developed a custom AI chatbot using **Relevance AI** + **Voiceflow**, saving £30K annually
-- 🏅 Employee of the Month (3×) for efficiency and innovation
-
----
-
 ## 💬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/connectnav/)
@@ -95,12 +72,12 @@ I currently work as a **Full Stack Developer & Data Analyst at ABJAK (UK)** wher
 ## 🧰 Tech Stack
 
 ```bash
-Languages:     Python, JavaScript, SQL, C++, R
-Frontend:      HTML, CSS, React, Tailwind, Bubble.io
+Languages:     Python, JavaScript(ES6+), SQL, C++, R
+Frontend:      HTML, CSS, React.js, Bubble.io
 Backend:       Flask, FastAPI, Node.js, AWS Lambda
-Automation:    n8n, Dialogflow, Voiceflow, Relevance AI
+Automation:    n8n, Dialogflow, Voiceflow, Relevance AI, Zapier
 Design:        Figma, Canva, Bootstrap
-ML Tools:      Pandas, Scikit-learn, TensorFlow, Hugging Face, OpenCV
-Database:      PostgreSQL, MySQL, Firebase
-Cloud/Deploy:  AWS, Google Cloud, Netlify, Vercel, Heroku, Docker
-Analytics:     Power BI, Tableau, Excel
+ML Tools:      Scikit-learn, TensorFlow, Hugging Face, OpenCV
+Database:      PostgreSQL, MySQL
+Cloud/Deploy:  AWS, Google Cloud, Docker
+Analytics:     Numpy, Pandas, Power BI, Tableau, MS Excel
